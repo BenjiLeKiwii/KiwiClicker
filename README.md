@@ -1,3 +1,5 @@
+ATENTION POUR UTILISER LE KIWICLICKER VOUS DEVEZ ETRE WHITELIST -> Discord : benjilekiwii 
+
 Fonctions :
 
   - Autoclick réglable par click (Gauche/Droite)
