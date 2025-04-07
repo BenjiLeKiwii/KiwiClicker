@@ -1,4 +1,4 @@
-ATENTION POUR UTILISER LE KIWICLICKER VOUS DEVEZ ETRE WHITELIST -> Discord : benjilekiwii 
+ATENTION POUR UTILISER LE KIWICLICKER VOUS DEVEZ TELECHARGER LE CLIENT ICI -> https://github.com/BenjiLeKiwii/KiwiClient?tab=readme-ov-file#kiwiclient
 
 Fonctions :
 
